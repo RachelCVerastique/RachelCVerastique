@@ -1,5 +1,5 @@
-## Hi there 👋
-
+<h1 align="center">Hi 👋, I'm Rachel</h1>
+<h3 align="center">I am a Full Stack Web Development student at Arizona State University</h3>
 <!--
 **RachelCVerastique/RachelCVerastique** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
